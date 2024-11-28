@@ -1,6 +1,6 @@
 {
-    "name": "signlanguage_resource_centre",
-    "short_name": "signlanguage_resource_centre",
+    "name": "sign_language_web",
+    "short_name": "sign_language_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
